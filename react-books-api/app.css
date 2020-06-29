@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+  list-style-type: none;
+}
+
+body {
+  background-color: ;
+}
+
+h1 {
+  text-align: center;
+}
+
+form,
+.bookmark-list,
+.title-button-container {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  align-items: center;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.bookmark-data {
+  display: flex;
+  width: 350px;
+  align-items: center;
+  margin: auto;
+  padding-top: 10px;
+}
+
+input {
+  width: 200px;
+}
+
+button {
+  margin-top: 1rem;
+}
+
+.main-container {
+  background-color: burlywood;
+  width: 500px;
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  border-radius: 10%;
+}
+
+footer {
+  text-align: center;
+}

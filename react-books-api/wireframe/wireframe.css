@@ -1,0 +1,44 @@
+/* {
+  box-sizing: border-box;
+}
+
+.heading {
+  text-align: center;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  align-items: center;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.form-container {
+  background-color: cornsilk;
+}
+
+input {
+  width: 200px;
+}
+
+.button {
+  color: moccasin;
+  background-color: tan;
+}
+
+option {
+ background-color: moccasin;
+ color: darksalmon;
+}
+
+.main-container {
+  background-color: burlywood;
+  width: 500px;
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  border-radius: 10%;
+}*/
